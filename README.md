@@ -1,4 +1,4 @@
 # CSS-task
 
-Adding css to the previous html created.<br/>
-Lucid post URL: site is down as at the time of submission.
+Adding css to the previous html created.
+Lucid post URL: https://lucid.blog/makinsuroju/post/mary-kay-of-html-48f
